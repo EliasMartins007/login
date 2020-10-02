@@ -1,0 +1,14 @@
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\bin\Debug\DiaDaNoivaStudio.exe.config
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\bin\Debug\DiaDaNoivaStudio.exe
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\bin\Debug\DiaDaNoivaStudio.pdb
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.Properties.Resources.resources
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.csproj.GenerateResource.Cache
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.exe
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.pdb
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.Login.resources
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.csprojAssemblyReference.cache
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.csproj.CoreCompileInputs.cache
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.VIEW_CONTROLLER.Principal.resources
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\conteudo NATHALIA salão2020\DiaDaNoivaStudio\DiaDaNoivaStudio\obj\Debug\DiaDaNoivaStudio.csproj.CopyComplete
